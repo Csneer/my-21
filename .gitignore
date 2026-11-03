@@ -1,0 +1,18 @@
+# Local agent state and research caches
+/.omx/
+/.codegraph/
+
+# Working research notes; the edited design note is published separately
+/docs/research/
+/docs/my-21-proposal.md
+/drafts/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.vscode/
